@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Emir
 
-<!--
-**emiralpkaragulmez/emiralpkaragulmez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate in Computer Engineering with interest in AI and backend development.
 
-Here are some ideas to get you started:
+🖥️ Experienced with Python and Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📘 Open to learning and discovering new technologies.
+
+🤝 Let’s contribute to meaningful projects, keep growing through code and be part of collaborative and supportive teams.
+
+---
+
+## Feel free to connect with me
+
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="20"/> LinkedIn](https://www.linkedin.com/in/emiralpkaragulmez)  ✉️ [E-mail](mailto:emiralp4234@gmail.com)
